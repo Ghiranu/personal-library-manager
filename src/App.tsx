@@ -1,7 +1,4 @@
 import React, { useState } from "react";
-// import Layout from "./components/Layout";
-// import BookList from "./components/BookList";
-// import BookForm from "./components/BookForm";
 import "./App.css";
 import { AppBar, Box, Button, Toolbar, Typography } from "@mui/material";
 import AddBookDialog from "./components/AddBookDialog";
